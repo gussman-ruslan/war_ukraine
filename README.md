@@ -24,6 +24,10 @@ cd war_ukraine/
 cp -r * ~/public_html
 ```
 
+Delete the file **.htaccess** if you install the project in a subfolder and your server is Apache.
+The file redirects all 404 pages to home page, usefull when installing on an expired domain.
+
+
 On cPanel you can use integrated git version control.
 https://docs.cpanel.net/knowledge-base/web-services/guide-to-git-how-to-set-up-deployment/
 
