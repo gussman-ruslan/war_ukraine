@@ -13,9 +13,9 @@ Clone the repository to the server:
 
 `git clone https://github.com/gussman-ruslan/war_ukraine.git`
 
-Copy the contents of folder "war_ukraine" to public_html or other public folder:
+Copy the contents of folder **war_ukraine** to public_html or other public folder:
 
-`rsync war_ukraine/ public_html`
+`rsync -a war_ukraine/ public_html`
 
 or
 
@@ -33,6 +33,10 @@ https://docs.cpanel.net/knowledge-base/web-services/guide-to-git-how-to-set-up-d
 * Unpack
 * Upload all contents of the folder to your server via ftp
 
+## How to help this project
+* Provide important information and suggestions via issues.
+* Feel free to Fork and [create pull requests](https://www.wikihow.com/Create-a-Pull-Request-on-Github) with updated info.
+* Install the project on as many websites as possible
 
 
 # Ужасы войны в Украине 18+ 
