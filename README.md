@@ -3,7 +3,9 @@
 
 Documenting the horrors of war in Ukraine in a form that is easy to read, understand, duplicate and host. 
 As a method to fight censorship in Russia. The page is plane html and can be installed on a basic server in a subfolder. 
-To avoid your domain being attacked or blocked buy expired Russian domains that have backlinks from russian resources, buy the cheapest hosting and install this page.
+To avoid your domain being attacked or blocked, buy expired Russian domains that have backlinks from russian resources, buy the cheapest hosting and install this page.
+
+[demo website 18+](https://gussman-ruslan.github.io/war_ukraine/)
 
 ## How to install the page if you have access to GIT
 
@@ -27,7 +29,8 @@ https://docs.cpanel.net/knowledge-base/web-services/guide-to-git-how-to-set-up-d
 
 # Ужасы войны в Украине 18+ 
 
-Документирование ужасов войны в Украине в форме, которую легко читать, понимать и распространять. Как метод борьбы с цензурой в России. Это простой html файл который может быть установлен на самом дешевом сервере. Чтобы избежать атак или блокировки вашего домена, покупайте просроченные российские домены, которые имеют обратные ссылки с российских ресурсов. 
+Документирование ужасов войны в Украине в форме, которую легко читать, понимать и распространять. Как метод борьбы с цензурой в России. Это простой html файл который может быть установлен на самом дешевом сервере. Чтобы избежать атак или блокировки вашего домена, покупайте просроченные российские домены, которые имеют обратные ссылки с российских ресурсов.
+
 
 # Установка
 
