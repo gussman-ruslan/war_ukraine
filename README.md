@@ -9,9 +9,17 @@ To avoid your domain being attacked or blocked, buy expired Russian domains that
 
 ## How to install the page if you have access to GIT
 
-Clone the repository to the server, then copy the contents to public_html or other public folder
+Clone the repository to the server:
+
+`git clone https://github.com/gussman-ruslan/war_ukraine.git`
+
+Copy the contents of folder "war_ukraine" to public_html or other public folder:
+
+`rsync war_ukraine/ public_html`
+
+or
+
 ```
-git clone https://github.com/gussman-ruslan/war_ukraine.git
 cd war_ukraine/
 cp -r * ~/public_html
 ```
