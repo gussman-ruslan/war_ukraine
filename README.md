@@ -2,7 +2,7 @@
 # Horrors of War in Ukraine 18+
 
 Documenting the horrors of war in Ukraine in a form that is easy to read, understand, duplicate and host. 
-As a method to fight censorship in Russia. The page is plane html and can be installed on a basic server in a subfolder. 
+As a method to fight censorship in Russia. The page is plain html and can be installed on a basic server in a subfolder. 
 To avoid your domain being attacked or blocked, buy expired Russian domains that have backlinks from russian resources, buy the cheapest hosting and install this page.
 
 [demo website 18+](https://gussman-ruslan.github.io/war_ukraine/)
